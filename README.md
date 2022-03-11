@@ -1,2 +1,2 @@
-Hi, I’m Sanne. I am currently learning to do front end development work with HTML, CSS and JavaScript.
+Hi, I’m Sanne. I am currently working as a trainee in software testing.
 You can reach me via info@sanimatie.nl
